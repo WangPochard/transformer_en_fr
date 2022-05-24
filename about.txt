@@ -1,0 +1,6 @@
+python version : 3.7.0
+tensorflow version : 2.7.0
+tensorflow-gpu version : 2.7.0
+
+CUDA : 11.6 , cudnn : 11.6
+h5py : 3.6.0
